@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "play": "Play",
+    "telemetry": "Telemetry",
+    "how_it_works": "How It Works",
+    "levels": "Levels"
+  },
+  "cta": {
+    "primary": "Launch Mission"
+  },
+  "footer": {
+    "tagline": "Sling satellites across the void — master gravity, reach Mars.",
+    "rights": "All rights reserved."
+  }
+}

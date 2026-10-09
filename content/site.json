@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "name": "Cosmic Sling",
+    "tagline": "Sling satellites across the void — master gravity, reach Mars.",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "play",
+      "href": "#game-canvas"
+    },
+    {
+      "key": "telemetry",
+      "href": "#telemetry-hud"
+    },
+    {
+      "key": "how_it_works",
+      "href": "#education-tooltip"
+    },
+    {
+      "key": "levels",
+      "href": "#controls-panel"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "#game-canvas"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 7
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

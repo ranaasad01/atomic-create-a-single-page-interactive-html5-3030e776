@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "play": "Jugar",
+    "telemetry": "Telemetría",
+    "how_it_works": "Cómo funciona",
+    "levels": "Niveles"
+  },
+  "cta": {
+    "primary": "Iniciar misión"
+  },
+  "footer": {
+    "tagline": "Lanza satélites al vacío — domina la gravedad, alcanza Marte.",
+    "rights": "Todos los derechos reservados."
+  }
+}
